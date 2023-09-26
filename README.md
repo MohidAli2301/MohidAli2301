@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MohidAli2301
 - 👀 I’m interested in Software Developpment
-- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on any projects!
 - 📫 How to reach me: MohidAli2301@gmail.com
 
